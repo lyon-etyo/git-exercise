@@ -10,3 +10,4 @@ Yeay this is my first Git.
 
 1. Open index.html in browser.
 2. Inspect Web Element with Browser Inspector.
+3. Just Have Fun.
